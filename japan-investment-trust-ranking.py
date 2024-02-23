@@ -1,5 +1,5 @@
-import bs4
 import requests
+import bs4
 
 
 URL = "https://itf.minkabu.jp/ranking/best_ranking"
