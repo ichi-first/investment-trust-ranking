@@ -1,0 +1,1 @@
+# japan-investment-trust-ranking
